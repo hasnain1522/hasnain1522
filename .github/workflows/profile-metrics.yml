@@ -24,6 +24,15 @@ jobs:
           config_display: large
           config_animations: yes
 
+  snake:
+    needs: metrics
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
       - name: Generate contribution snake
         uses: Platane/snk@v3
         with:
@@ -31,8 +40,14 @@ jobs:
           outputs: |
             assets/github-snake.svg
 
-      - name: Commit telemetry assets
-        uses: EndBug/add-and-commit@v9
-        with:
-          add: "assets/github-metrics.svg assets/github-snake.svg"
-          message: "chore: update GitHub telemetry"
+      - name: Commit contribution snake
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github-snake.svg
+          if git diff --cached --quiet; then
+            echo "No snake changes to commit."
+          else
+            git commit -m "chore: update GitHub contribution snake"
+            git push
+          fi
