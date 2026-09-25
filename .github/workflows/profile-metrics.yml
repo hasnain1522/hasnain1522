@@ -17,7 +17,7 @@ jobs:
         with:
           filename: assets/github-metrics.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          user: hashnain1522
+          user: hasnain1522
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
@@ -27,7 +27,7 @@ jobs:
       - name: Generate contribution snake
         uses: Platane/snk@v3
         with:
-          github_user_name: hashnain1522
+          github_user_name: hasnain1522
           outputs: |
             assets/github-snake.svg
 
