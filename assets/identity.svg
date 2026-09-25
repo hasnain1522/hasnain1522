@@ -1,0 +1,26 @@
+<svg width="1000" height="260" viewBox="0 0 1000 260" xmlns="http://www.w3.org/2000/svg">
+<rect width="1000" height="260" rx="18" fill="#0d1117"/>
+<g font-family="Segoe UI, Arial, sans-serif" fill="#f0f6fc">
+  <text x="50" y="72" font-size="42" font-weight="700">MOHAMMED HASNAIN</text>
+  <text x="52" y="108" font-size="16" fill="#8b949e" letter-spacing="3">HASNAIN.OS // GITHUB IDENTITY CORE</text>
+  <text x="52" y="160" font-size="27" font-weight="600">
+    <tspan opacity="0">
+      CSE AI/ML Student
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.12;0.42;0.55" dur="12s" repeatCount="indefinite"/>
+    </tspan>
+    <tspan opacity="0">
+      CSE AI/ML Developer
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0.25;0.37;0.67;0.80" dur="12s" repeatCount="indefinite"/>
+    </tspan>
+    <tspan opacity="0">
+      Web Developer
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0.50;0.62;0.92;1" dur="12s" repeatCount="indefinite"/>
+    </tspan>
+  </text>
+  <text x="52" y="202" font-size="15" fill="#8b949e">AI • WEB • AGENTIC AI • HACKATHONS • BUILDING IN PUBLIC</text>
+  <circle cx="925" cy="72" r="9" fill="#3fb950">
+    <animate attributeName="opacity" values="1;.35;1" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+  <text x="820" y="108" font-size="13" fill="#3fb950">SYSTEM ONLINE</text>
+</g>
+</svg>
