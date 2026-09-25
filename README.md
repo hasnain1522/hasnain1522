@@ -98,20 +98,17 @@ I prefer real projects and honest progress over collecting technology names.
 
 ---
 
-## ◈ GITHUB TELEMETRY
+## ◈ HASNAIN.OS TELEMETRY
 
 <p align="center">
-  <a href="https://github.com/hasnain1522">
-    <img src="https://github-readme-stats.vercel.app/api?username=hasnain1522&show_icons=true&hide_border=true&theme=transparent&cache_seconds=86400" height="165" alt="GitHub statistics" />
-  </a>
-  <a href="https://github.com/hasnain1522">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnain1522&layout=compact&hide_border=true&theme=transparent&cache_seconds=86400" height="165" alt="Top languages" />
-  </a>
+  <img src="./assets/github-metrics.svg" alt="Hasnain.OS GitHub telemetry" width="95%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasnain1522&hide_border=true&area=true&custom_title=HASNAIN.OS%20%2F%2F%20CONTRIBUTION%20MATRIX" alt="GitHub contribution activity graph" width="95%" />
+  <img src="./assets/github-snake.svg" alt="GitHub contribution matrix" width="95%" />
 </p>
+
+<sub>Telemetry assets are generated automatically by GitHub Actions and stored in this repository, avoiding unreliable third-party image cards.</sub>
 
 ---
 
@@ -120,7 +117,7 @@ I prefer real projects and honest progress over collecting technology names.
 <p align="center">
   <a href="https://github.com/hasnain1522">GitHub</a>
   &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/mohammed-hasnain78931522/">LinkedIn</a>
 </p>
 
 <p align="center"><sub>HASNAIN.OS // IDENTITY CORE ONLINE</sub></p>
