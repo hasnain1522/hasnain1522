@@ -10,7 +10,7 @@ permissions:
 
 jobs:
   metrics:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
       - name: Generate GitHub metrics
         uses: lowlighter/metrics@latest
@@ -24,30 +24,39 @@ jobs:
           config_display: large
           config_animations: yes
 
-  snake:
+  contribution-matrix:
     needs: metrics
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - name: Checkout latest profile
+        uses: actions/checkout@v5
         with:
           fetch-depth: 0
 
-      - name: Generate contribution snake
-        uses: Platane/snk@v3
+      - name: Set up Python
+        uses: actions/setup-python@v6
         with:
-          github_user_name: hasnain1522
-          outputs: |
-            assets/github-snake.svg
+          python-version: "3.x"
 
-      - name: Commit contribution snake
+      - name: Install image renderer
+        run: python -m pip install --upgrade pillow
+
+      - name: Generate animated contribution matrix
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USER: hasnain1522
+          OUTPUT: assets/github-contribution-matrix.gif
+        run: python scripts/generate_contribution_matrix.py
+
+      - name: Commit contribution matrix
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/github-snake.svg
+          git pull --rebase origin main
+          git add assets/github-contribution-matrix.gif
           if git diff --cached --quiet; then
-            echo "No snake changes to commit."
+            echo "No contribution matrix changes to commit."
           else
-            git commit -m "chore: update GitHub contribution snake"
+            git commit -m "chore: update contribution matrix"
             git push
           fi
