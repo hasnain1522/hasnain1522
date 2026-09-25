@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>CSE AI/ML Student</b> &nbsp;•&nbsp; <b>CSE AI/ML Developer</b> &nbsp;•&nbsp; <b>Web Developer</b>
+  <b>CSE AI/ML Student</b> &nbsp;•&nbsp; <b>AI / Agentic AI Explorer</b> &nbsp;•&nbsp; <b>Builder</b>
 </p>
 
 <p align="center"><i>AI • Web • Agentic AI • Hackathons • Building in Public</i></p>
@@ -105,10 +105,10 @@ I prefer real projects and honest progress over collecting technology names.
 </p>
 
 <p align="center">
-  <img src="./assets/github-snake.svg" alt="GitHub contribution matrix" width="95%" />
+  <img src="./assets/github-contribution-matrix.gif" alt="Animated Hasnain.OS contribution matrix" width="95%" />
 </p>
 
-<sub>Telemetry assets are generated automatically by GitHub Actions and stored in this repository, avoiding unreliable third-party image cards.</sub>
+<sub>Telemetry is generated automatically by GitHub Actions and stored locally in this repository. The contribution matrix uses real GitHub contribution data; the animated presentation is a custom Hasnain.OS visual rather than the common contribution snake.</sub>
 
 ---
 
