@@ -1,0 +1,38 @@
+name: Update Hasnain.OS GitHub Telemetry
+
+on:
+  schedule:
+    - cron: "17 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate GitHub metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/github-metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: hashnain1522
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Kolkata
+          config_display: large
+          config_animations: yes
+
+      - name: Generate contribution snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: hashnain1522
+          outputs: |
+            assets/github-snake.svg
+
+      - name: Commit telemetry assets
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: "assets/github-metrics.svg assets/github-snake.svg"
+          message: "chore: update GitHub telemetry"
