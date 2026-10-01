@@ -53,6 +53,20 @@ An engineering prototype exploring how AI coding workflows can move beyond gener
 
 → [View DevForge](https://github.com/hasnain1522/DevForge)
 
+### ◆ RFPulse — AI RFP Intelligence
+
+**Read RFP → Recall Experience → Recommend → Draft → Record Outcome → Learn**
+
+RFPulse is an AI-powered proposal intelligence prototype built for **Devnovate × Hack With India — Hack With Hyderabad 3.0**, the 2026 offline hackathon hosted at the **Microsoft Office, Hyderabad**.
+
+The project explores a memory-driven RFP workflow: analyze requirements, recall relevant previous wins/losses, identify gaps, generate recommendations, draft a response and store the outcome for future proposals.
+
+**Built for:** Devnovate Hack With Hyderabad 3.0  
+**Venue:** Microsoft Office, Hyderabad  
+**Status:** 🟢 Hackathon Project / AI Engineering Prototype
+
+→ [View RFPulse](https://github.com/hasnain1522/RFPulse)
+
 ### ◆ CareerGuide AI — AI Guidance Platform
 
 An AI application exploring career, job and business guidance through specialist agents, research, personalization and guardrails.
@@ -62,16 +76,6 @@ An AI application exploring career, job and business guidance through specialist
 **Status:** 🟢 Active AI/ML Project
 
 → [View CareerGuide AI](https://github.com/hasnain1522/CareerGuide-AI)
-
-### ◆ RFPulse — RFP Intelligence
-
-An AI-powered RFP workflow exploring how proposal systems can learn from previous wins and losses.
-
-**Read RFP → Recall Experience → Recommend → Draft → Record Outcome → Learn**
-
-**Status:** 🟢 AI Engineering MVP
-
-→ [View RFPulse](https://github.com/hasnain1522/RFPulse)
 
 ### ◆ StockSense — Inventory Management
 
@@ -86,7 +90,7 @@ An inventory-management application developed for the **Odoo × GCET Hyderabad H
 
 My personal portfolio is being developed as an interactive operating-system-style experience instead of a conventional static portfolio.
 
-**Boot → Identity → Command Center → Projects → Tech Core → AI Lab → Future Builds**
+**Boot → Identity → Command Center → Projects → Tech Core → Experience → AI Lab → Future Builds**
 
 **Status:** 🟡 In Development
 
@@ -99,7 +103,7 @@ My personal portfolio is being developed as an interactive operating-system-styl
 ### 🤖 AI & Agentic AI
 - [CareerGuide-AI](https://github.com/hasnain1522/CareerGuide-AI) — AI career, job and business guidance.
 - [AI-Career-Agent](https://github.com/hasnain1522/AI-Career-Agent) — multi-agent AI engineering exploration.
-- [RFPulse](https://github.com/hasnain1522/RFPulse) — RFP intelligence and outcome memory.
+- [RFPulse](https://github.com/hasnain1522/RFPulse) — hackathon-built RFP intelligence, memory and proposal workflow.
 - [DevForge](https://github.com/hasnain1522/DevForge) — agentic engineering control center.
 
 ### 🌐 Web & Product Engineering
@@ -127,10 +131,13 @@ The final end-to-end live provider path was not fully validated, so I documented
 
 The virtual round was completed. Final result was pending at the time of this profile update.
 
-### Devnovate — Hack With Hyderabad 3.0
-**Status:** 🟢 Active hackathon track
+### Devnovate × Hack With India — Hack With Hyderabad 3.0
+**RFPulse** — AI-powered RFP intelligence and proposal memory prototype.
 
-Working with a team on a real-world problem-solving build and preparing for the final-stage event.
+The project was built around a practical proposal-workflow problem: turning previous RFP outcomes into reusable intelligence instead of starting every proposal from zero.
+
+**Venue:** Microsoft Office, Hyderabad  
+**Format:** Offline 8-hour hackathon
 
 ---
 
