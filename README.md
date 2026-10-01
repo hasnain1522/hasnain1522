@@ -48,8 +48,8 @@ I do not want this profile to be a list of technologies I have touched. I want i
 
 An engineering prototype exploring how AI coding workflows can move beyond generation into measurable engineering execution. It analyzes repositories, creates engineering missions, executes scoped work, verifies changes, preserves evidence and generates impact information.
 
-**Built for:** IBM Bob 2.0 Hackathon  
-**Status:** 🟡 Hackathon MVP / Engineering Prototype
+**Built for:** Online IBM Bob 2.0 Hackathon  
+**Status:** 🟡 Hackathon MVP / Engineering Prototype can't submit because of an accident happen with me.
 
 → [View DevForge](https://github.com/hasnain1522/DevForge)
 
@@ -57,15 +57,23 @@ An engineering prototype exploring how AI coding workflows can move beyond gener
 
 **Read RFP → Recall Experience → Recommend → Draft → Record Outcome → Learn**
 
-RFPulse is an AI-powered proposal intelligence prototype built for **Devnovate × Hack With India — Hack With Hyderabad 3.0**, the 2026 offline hackathon hosted at the **Microsoft Office, Hyderabad**.
+RFPulse is an AI-powered proposal intelligence prototype built for **Devnovate × Hack With India — Hack With Hyderabad 3.0**, the 2026 offline  hackathon hosted at the **Microsoft Office, Hyderabad**.
 
 The project explores a memory-driven RFP workflow: analyze requirements, recall relevant previous wins/losses, identify gaps, generate recommendations, draft a response and store the outcome for future proposals.
 
 **Built for:** Devnovate Hack With Hyderabad 3.0  
 **Venue:** Microsoft Office, Hyderabad  
-**Status:** 🟢 Hackathon Project / AI Engineering Prototype
+**Status:** 🟢 Hackathon Project / AI Engineering Prototype.It is build during virtual round.
 
 → [View RFPulse](https://github.com/hasnain1522/RFPulse)
+
+### ◆ StockSense — Inventory Management
+
+An inventory-management application developed for the **Odoo × GCET Hyderabad Hackathon 2026**. It covers products, warehouses, locations, receipts, deliveries, transfers, adjustments, movement history and dashboard metrics.
+
+**Virtual round:** Completed 
+
+→ [View StockSense](https://github.com/hasnain1522/stocksense)
 
 ### ◆ CareerGuide AI — AI Guidance Platform
 
@@ -77,14 +85,7 @@ An AI application exploring career, job and business guidance through specialist
 
 → [View CareerGuide AI](https://github.com/hasnain1522/CareerGuide-AI)
 
-### ◆ StockSense — Inventory Management
 
-An inventory-management application developed for the **Odoo × GCET Hyderabad Hackathon 2026**. It covers products, warehouses, locations, receipts, deliveries, transfers, adjustments, movement history and dashboard metrics.
-
-**Virtual round:** Completed  
-**Result:** Awaiting / verify through official event announcement
-
-→ [View StockSense](https://github.com/hasnain1522/stocksense)
 
 ### ◆ Hasnain.OS — Personal Command Center
 
@@ -129,7 +130,7 @@ The final end-to-end live provider path was not fully validated, so I documented
 ### Odoo × GCET Hyderabad Hackathon 2026
 **StockSense** — inventory management system.
 
-The virtual round was completed. Final result was pending at the time of this profile update.
+The virtual round was completed.
 
 ### Devnovate × Hack With India — Hack With Hyderabad 3.0
 **RFPulse** — AI-powered RFP intelligence and proposal memory prototype.
