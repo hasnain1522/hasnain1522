@@ -136,8 +136,6 @@ The virtual round was completed. Final result was pending at the time of this pr
 
 The project was built around a practical proposal-workflow problem: turning previous RFP outcomes into reusable intelligence instead of starting every proposal from zero.
 
-**Venue:** Microsoft Office, Hyderabad  
-**Format:** Offline 8-hour hackathon
 
 ---
 
