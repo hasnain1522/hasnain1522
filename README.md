@@ -154,9 +154,9 @@ The project was built around a practical proposal-workflow problem: turning prev
             ↓
        Agentic AI
             ↓
- Agents + Tools + Research + Memory
+    Agents + Tools + Research + Memory
             ↓
- APIs + Databases + Web Applications
+    APIs + Databases + Web Applications
             ↓
        Useful AI Products
 
@@ -166,23 +166,23 @@ I am particularly interested in systems where AI can use tools, retrieve relevan
 
 ## ◈ BUILD PHILOSOPHY
 
-    IDEA
+     IDEA
       ↓
-   RESEARCH
+    RESEARCH
       ↓
-  PROTOTYPE
+    PROTOTYPE
       ↓
-   BREAK IT
+    BREAK IT
       ↓
-   DEBUG IT
+    DEBUG IT
       ↓
-   VERIFY IT
+    VERIFY IT
       ↓
- DOCUMENT IT
+    DOCUMENT IT
       ↓
-    SHIP IT
+     SHIP IT
       ↓
-LEARN FROM IT
+    LEARN FROM IT
 
 I value **working software, honest documentation and measurable progress** more than simply collecting certificates or technology names.
 
