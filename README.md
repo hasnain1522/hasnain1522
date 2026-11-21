@@ -2,54 +2,53 @@
   <img src="./assets/identity.svg" alt="Mohammed Hasnain — Hasnain.OS GitHub Identity" width="100%" />
 </p>
 
-<p align="center"><b>CSE AI/ML Student</b> &nbsp;•&nbsp; <b>Agentic AI Builder</b> &nbsp;•&nbsp; <b>Web Developer</b></p>
-<p align="center"><i>AI • Web • Agentic Systems • Hackathons • Building in Public</i></p>
+<p align="center"><b>CSE AI/ML Student</b> &nbsp;•&nbsp; <b>AI & Software Engineering Learner</b></p>
+<p align="center"><i>Artificial Intelligence • Agentic Systems • Web Applications • Building in Public</i></p>
 <p align="center"><a href="https://github.com/hasnain1522">GitHub</a> &nbsp;•&nbsp; <a href="https://www.linkedin.com/in/mohammed-hasnain78931522/">LinkedIn</a> &nbsp;•&nbsp; <a href="https://hasnainos.onrender.com">Portfolio</a></p>
 
 ---
 
 ## ◈ IDENTITY CORE
-I'm **Mohammed Hasnain**, a **B.Tech CSE (AI/ML) student** building my skills by turning ideas into working software.
 
-My current engineering path sits at the intersection of:
-- 🤖 Artificial Intelligence & Machine Learning
-- 🧠 Agentic AI and multi-agent applications
-- 🌐 Web development and interactive products
+I'm **Mohammed Hasnain**, a **B.Tech CSE (AI/ML) student** learning by turning ideas into working software.
+
+My current learning and building areas include:
+- 🤖 Artificial Intelligence and Machine Learning
+- 🧠 Agentic AI, tools and multi-agent workflows
+- 🌐 Web development and interactive applications
 - 🐍 Python and backend engineering
-- 🗄️ APIs, databases and application architecture
-- ⚡ Hackathons and rapid product development
-- 🛠️ Git, GitHub and collaborative workflows
+- 🗄️ APIs, databases and software architecture
+- ⚡ Hackathons, prototyping and collaborative development
 
-> **Learn → Build → Break → Debug → Document → Ship → Repeat**
+> **Learn → Build → Test → Debug → Document → Improve → Repeat**
 
-I do not want this profile to be a list of technologies I have touched. I want it to show what I have actually built and what I am learning next.
+I want this profile to reflect what I have actually built, what worked, what did not, and what I learned along the way.
 
 ---
 
 ## ◈ CURRENT OPERATIONS
 
-| Area | Status | Focus |
+| Area | Focus | Status |
 |---|---|---|
-| CSE AI/ML | 🟢 ACTIVE | Core academic + practical learning |
-| Web Development | 🟢 ACTIVE | React, frontend systems, APIs |
-| Agentic AI | 🟢 EXPLORING | Agents, tools, research, AI products |
-| Hackathons | 🟢 ACTIVE | Building under real constraints |
-| Git & GitHub | 🟢 BUILDING | Collaboration, version control, CI |
-| Hasnain.OS | 🟡 IN DEVELOPMENT | Personal portfolio / command center |
-| Easy Ride | 🔒 FUTURE BUILD | Mobility + delivery product concept |
+| CSE AI/ML | Academic foundations and practical learning | 🟢 Active |
+| Agentic AI | Agents, tools, research and AI applications | 🟢 Exploring |
+| Web & Backend | React, APIs, Python and application workflows | 🟢 Building |
+| Hasnain.OS | Personal portfolio and digital archive | 🟡 In development |
+| CareerGuide AI | AI-guided career platform prototype | 🟢 Evolving |
+| Easy Ride | Mobility and delivery platform concept | 🔒 Planned |
 
 ---
 
-## ◈ FLAGSHIP PROJECTS
+## ◈ FEATURED PROJECTS
 
-### ◆ DevForge — Agentic Engineering Control Center
+### ◆ DevForge — Python Repository Analysis & Improvement
 
-**Analyze → Mission → Execute → Verify → Measure → Deliver → Prove**
+**Connect Repository → Analyse → Review Findings → Choose Work → Apply Changes → Verify**
 
-An engineering prototype exploring how AI coding workflows can move beyond generation into measurable engineering execution. It analyzes repositories, creates engineering missions, executes scoped work, verifies changes, preserves evidence and generates impact information.
+DevForge explores how AI can help developers inspect large Python codebases, surface potential issues and improvement opportunities, explain findings, and turn selected work into scoped tasks. The developer stays in control and decides whether to proceed with AI-assisted changes.
 
-**Built for:** Online IBM Bob 2.0 Hackathon  
-**Status:** 🟡 Hackathon MVP / Engineering Prototype can't submit because of an accident happen with me.
+**Built for:** IBM Bob 2.0 Hackathon (online)  
+**Outcome:** The project did not progress as a selected hackathon entry. The end-to-end live provider workflow was not fully validated before the deadline, so it is documented as an engineering prototype—not a completed competition submission.
 
 → [View DevForge](https://github.com/hasnain1522/DevForge)
 
@@ -57,144 +56,112 @@ An engineering prototype exploring how AI coding workflows can move beyond gener
 
 **Read RFP → Recall Experience → Recommend → Draft → Record Outcome → Learn**
 
-RFPulse is an AI-powered proposal intelligence prototype built for **Devnovate × Hack With India — Hack With Hyderabad 3.0**, the 2026 offline  hackathon hosted at the **Microsoft Office, Hyderabad**.
+An AI-powered RFP intelligence prototype built for **Devnovate × Hack With India — Hack With Hyderabad 3.0**. It explores a memory-driven proposal workflow: understanding requirements, recalling relevant previous outcomes, identifying gaps, recommending an approach and drafting responses.
 
-The project explores a memory-driven RFP workflow: analyze requirements, recall relevant previous wins/losses, identify gaps, generate recommendations, draft a response and store the outcome for future proposals.
-
-**Built for:** Devnovate Hack With Hyderabad 3.0  
-**Venue:** Microsoft Office, Hyderabad  
-**Status:** 🟢 Hackathon Project / AI Engineering Prototype.It is build during virtual round.
+**Round:** Online team-selection round  
+**Outcome:** The team was not selected for the offline final at Microsoft Office, Hyderabad.
 
 → [View RFPulse](https://github.com/hasnain1522/RFPulse)
 
-### ◆ StockSense — Inventory Management
+### ◆ StockSense — Inventory Management System
 
-An inventory-management application developed for the **Odoo × GCET Hyderabad Hackathon 2026**. It covers products, warehouses, locations, receipts, deliveries, transfers, adjustments, movement history and dashboard metrics.
+A team-built inventory management prototype developed for the **Odoo × GCET Hyderabad Hackathon 2026**, where the challenge was to build an Inventory Management System.
 
-**Virtual round:** Completed 
+The standalone application explores products, warehouses, locations, receipts, deliveries, transfers, adjustments, movement history and dashboard metrics. It uses a React/Vite frontend with an Express and SQLite backend; it is not an Odoo-integrated deployment.
+
+**Round:** Online round completed on 26 September 2026  
+**Outcome:** The team was not selected for the offline final.
 
 → [View StockSense](https://github.com/hasnain1522/stocksense)
 
-### ◆ CareerGuide AI — AI Guidance Platform
+### ◆ CareerGuide AI — AI Career Companion
 
-An AI application exploring career, job and business guidance through specialist agents, research, personalization and guardrails.
+An evolving AI platform prototype exploring career guidance, personalized learning plans, roadmaps, missions and progress tracking. The broader direction is to connect students, educational institutions and companies through useful AI-assisted workflows.
 
-> **AI should support a person’s decision-making process, not make the decision for them.**
-
-**Status:** 🟢 Active AI/ML Project
-
-→ [View CareerGuide AI](https://github.com/hasnain1522/CareerGuide-AI)
-
-
+→ [View AI-Career-Agent](https://github.com/hasnain1522/AI-Career-Agent)
 
 ### ◆ Hasnain.OS — Personal Command Center
 
-My personal portfolio is being developed as an interactive operating-system-style experience instead of a conventional static portfolio.
+A personal portfolio designed as an interactive operating-system-style experience rather than a conventional static portfolio.
 
 **Boot → Identity → Command Center → Projects → Tech Core → Experience → AI Lab → Future Builds**
 
-**Status:** 🟡 In Development
-
-→ [View Hasnain.OS](https://github.com/hasnain1522/HasnainOS)
+→ [View Hasnain.OS](https://github.com/hasnain1522/HasnainOS) · [Open portfolio](https://hasnainos.onrender.com)
 
 ---
 
 ## ◈ PROJECT MATRIX
 
-### 🤖 AI & Agentic AI
-- [CareerGuide-AI](https://github.com/hasnain1522/CareerGuide-AI) — AI career, job and business guidance.
-- [AI-Career-Agent](https://github.com/hasnain1522/AI-Career-Agent) — multi-agent AI engineering exploration.
-- [RFPulse](https://github.com/hasnain1522/RFPulse) — hackathon-built RFP intelligence, memory and proposal workflow.
-- [DevForge](https://github.com/hasnain1522/DevForge) — agentic engineering control center.
+### 🤖 AI & Agentic Systems
+- [CareerGuide AI / AI-Career-Agent](https://github.com/hasnain1522/AI-Career-Agent) — AI-guided career companion and platform prototype.
+- [DevForge](https://github.com/hasnain1522/DevForge) — Python repository analysis and user-controlled AI-assisted improvements.
+- [RFPulse](https://github.com/hasnain1522/RFPulse) — RFP intelligence and proposal-memory workflow.
 
 ### 🌐 Web & Product Engineering
-- [Hasnain.OS](https://github.com/hasnain1522/HasnainOS) — interactive personal portfolio.
-- [StockSense](https://github.com/hasnain1522/stocksense) — inventory management application.
-- [Easy Ride](https://github.com/hasnain1522/EasyRide) — future mobility + delivery platform concept.
-- [Way Down We Go](https://github.com/hasnain1522/-Way-Down-We-Go-HTML-Practice-Project) — early HTML practice project.
+- [Hasnain.OS](https://github.com/hasnain1522/HasnainOS) — Interactive personal portfolio.
+- [StockSense](https://github.com/hasnain1522/stocksense) — Standalone inventory management prototype.
+- [Easy Ride](https://github.com/hasnain1522/EasyRide) — Planned mobility and delivery platform concept.
+- [Way Down We Go](https://github.com/hasnain1522/-Way-Down-We-Go-HTML-Practice-Project) — Early HTML practice webpage with text, links, images, audio and video.
 
 ### 🐍 Python Foundations
-- [Simple Bank Chatbot](https://github.com/hasnain1522/Simple-Bank-Chatbot) — early rule-based Python project built to practice programming fundamentals.
+- [Simple Bank Chatbot](https://github.com/hasnain1522/Simple-Bank-Chatbot) — Rule-based Python chatbot built during a one-week AI/ML Bootcamp at NGCC Software Technologies, Hyderabad. It is a learning project, not an ML-powered banking system.
 
 ---
 
-## ◈ HACKATHON OPERATIONS
+## ◈ HACKATHON EXPERIENCE
 
-Hackathons are one of my main ways of learning because they force an idea through the full loop: **Problem → Architecture → Build → Debug → Demo → Documentation**.
+I use hackathons to practise the full product loop: **Understand the Problem → Plan → Build → Debug → Demo → Document**. Participation and outcomes are recorded honestly.
 
-### IBM Bob 2.0
-**DevForge** — agentic engineering control center prototype.
-
-The final end-to-end live provider path was not fully validated, so I documented the limitation instead of presenting an unverified demo as complete.
-
-### Odoo × GCET Hyderabad Hackathon 2026
-**StockSense** — inventory management system.
-
-The virtual round was completed.
-
-### Devnovate × Hack With India — Hack With Hyderabad 3.0
-**RFPulse** — AI-powered RFP intelligence and proposal memory prototype.
-
-The project was built around a practical proposal-workflow problem: turning previous RFP outcomes into reusable intelligence instead of starting every proposal from zero.
-
+| Hackathon | Project | Recorded outcome |
+|---|---|---|
+| IBM Bob 2.0 | DevForge | Online build; not selected. End-to-end provider workflow remained unvalidated. |
+| Odoo × GCET Hyderabad Hackathon 2026 | StockSense | Online round completed; team not selected for offline final. |
+| Devnovate × Hack With India — Hack With Hyderabad 3.0 | RFPulse | Online team-selection round; team not selected for offline final. |
 
 ---
 
 ## ◈ TECH CORE
 
-<p align="center"><img src="https://skillicons.dev/icons?i=python,html,css,js,react,vite,fastapi,nodejs,express,mongodb,mysql,sqlite,git,github,vscode&perline=8" alt="Technology stack" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=python,html,css,js,react,vite,fastapi,nodejs,express,mongodb,mysql,sqlite,git,github,vscode&perline=8" alt="Technologies used and explored" /></p>
 
-<sub>These represent technologies I am learning, actively using, or have used in projects. The list is intentionally not a claim of mastery.</sub>
+<sub>These are technologies I am learning, exploring or have used in projects. This is not a claim of mastery.</sub>
 
 ---
 
 ## ◈ ENGINEERING INTERESTS
 
-    Artificial Intelligence
-            ↓
-       Agentic AI
-            ↓
-    Agents + Tools + Research + Memory
-            ↓
-    APIs + Databases + Web Applications
-            ↓
-       Useful AI Products
+```text
+Artificial Intelligence
+        ↓
+Agentic AI: Agents + Tools + Research + Memory
+        ↓
+APIs + Databases + Web Applications
+        ↓
+Useful, reliable AI-powered products
+```
 
-I am particularly interested in systems where AI can use tools, retrieve relevant information, operate through bounded tasks, verify its work, preserve evidence and interact with real software systems.
+I'm especially interested in systems where AI can use tools, work within clear boundaries, verify outputs, preserve evidence and interact with real software workflows.
 
 ---
 
 ## ◈ BUILD PHILOSOPHY
 
-     IDEA
-      ↓
-    RESEARCH
-      ↓
-    PROTOTYPE
-      ↓
-    BREAK IT
-      ↓
-    DEBUG IT
-      ↓
-    VERIFY IT
-      ↓
-    DOCUMENT IT
-      ↓
-     SHIP IT
-      ↓
-    LEARN FROM IT
+```text
+IDEA → RESEARCH → PROTOTYPE → TEST
+  → DEBUG → VERIFY → DOCUMENT → IMPROVE
+```
 
-I value **working software, honest documentation and measurable progress** more than simply collecting certificates or technology names.
+I value **working software, honest documentation and measurable progress** over simply listing technologies.
 
-A failed experiment is still useful if I can explain: **what I tried → what broke → why it broke → what I learned → what I changed.**
+A failed experiment is useful when I can explain what I tried, what broke, why it broke and what I learned.
 
 ---
 
 ## ◈ LEARNING ENGINE
 
-**Current direction:** `CSE AI/ML → Agentic AI → Web Applications → APIs → Databases → AI Products → Product Engineering`
+**Current direction:** `CSE AI/ML → Python → Web & Backend → Agentic AI → APIs & Databases → Product Engineering`
 
-My goal is to gradually move from learning individual technologies to designing complete systems.
+My goal is to move step by step from understanding individual technologies to designing and building complete systems.
 
 ---
 
@@ -202,33 +169,30 @@ My goal is to gradually move from learning individual technologies to designing 
 
 <p align="center"><img src="./assets/github-metrics.svg" alt="Hasnain.OS GitHub telemetry" width="95%" /></p>
 
-<p align="center"><img src="./assets/github-contribution-matrix.gif" alt="Animated Hasnain.OS contribution matrix" width="95%" /></p>
+<p align="center"><img src="./assets/github-contribution-matrix.gif" alt="Animated GitHub contribution matrix" width="95%" /></p>
 
-<sub>Telemetry is generated automatically by GitHub Actions and stored in this repository. The contribution matrix uses real GitHub contribution data with a custom Hasnain.OS presentation.</sub>
+<sub>Telemetry assets are maintained through GitHub Actions in this repository.</sub>
 
 ---
 
 ## ◈ ROADMAP
 
-    NOW
-    ├── CSE AI/ML
-    ├── Agentic AI
-    ├── Web Development
-    ├── Hackathons
-    └── Hasnain.OS
+**NOW**
+- Strengthen CSE AI/ML foundations
+- Build practical Python and web applications
+- Learn agentic AI patterns and tool workflows
+- Improve project quality, testing and documentation
 
-    NEXT
-    ├── Stronger AI applications
-    ├── Better full-stack engineering
-    ├── More real-world deployments
-    ├── Open-source collaboration
-    └── Deeper system design
+**NEXT**
+- Build more reliable AI applications
+- Strengthen full-stack and backend engineering
+- Gain more deployment and collaboration experience
+- Contribute to open-source projects
 
-    FUTURE
-    ├── Easy Ride
-    ├── AI-powered products
-    ├── Startup experiments
-    └── Building systems people actually use
+**FUTURE**
+- Develop useful AI-powered products
+- Explore startup and product-building opportunities
+- Turn larger ideas into systems people can actually use
 
 ---
 
@@ -236,4 +200,4 @@ My goal is to gradually move from learning individual technologies to designing 
 
 <p align="center"><a href="https://github.com/hasnain1522">GitHub</a> &nbsp;•&nbsp; <a href="https://www.linkedin.com/in/mohammed-hasnain78931522/">LinkedIn</a> &nbsp;•&nbsp; <a href="https://hasnainos.onrender.com">Portfolio</a></p>
 
-<p align="center"><sub>HASNAIN.OS // IDENTITY CORE ONLINE // BUILDING IN PUBLIC</sub></p>
+<p align="center"><sub>HASNAIN.OS // LEARNING, BUILDING AND IMPROVING</sub></p>
