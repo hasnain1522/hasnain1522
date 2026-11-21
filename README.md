@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/identity.svg" alt="Mohammed Hasnain — Hasnain.OS GitHub Identity" width="100%" />
+  <img src="./assets/identity.svg" alt="Mohammed Hasnain " width="100%" />
 </p>
 
 <p align="center"><b>CSE AI/ML Student</b> &nbsp;•&nbsp; <b>AI & Software Engineering Learner</b></p>
